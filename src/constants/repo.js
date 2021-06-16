@@ -1,1 +1,1 @@
-export const REPO_NAME = 'home';
+export const REPO_NAME = 'HomePage';
