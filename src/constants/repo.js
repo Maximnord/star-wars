@@ -1,1 +1,1 @@
-export const REPO_NAME = 'star-wars';
+export const REPO_NAME = 'home';
