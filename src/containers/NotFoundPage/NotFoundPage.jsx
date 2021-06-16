@@ -9,7 +9,7 @@ let location  = useLocation();
 
     return ( 
         <>
-        <img  className={styles.img} src={img} alt="Nt Found" />
+        <img  className={styles.img} src={img} alt="Not Found" />
             <p className={styles.text}>No match for <u>{location.pathname}</u></p>
         </>
      );
